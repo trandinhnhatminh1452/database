@@ -1,0 +1,21 @@
+"stadium_name","location","capacity"
+"Amex Stadium","Falmer",31800
+"Anfield","Liverpool",53394
+"Bramall Lane","Sheffield",32050
+"City Ground","Nottingham",30332
+"Craven Cottage","London",29600
+"Emirates Stadium","London",60704
+"Etihad Stadium","Manchester",53400
+"Goodison Park","Liverpool",39414
+" Gtech Community Stadium","London",17250
+"Kenilworth Road","Luton",10356
+" London Stadium","London",62500
+"Molineux Stadium","Wolverhampton",31750
+"Old Trafford","Manchester",74310
+"Selhurst Park","London",25486
+"Stamford Bridge","London",40343
+"St James' Park","Newcastle",52305
+"Tottenham Hotspur Stadium","London",62850
+"Turf Moor","Burnley",21944
+"Villa Park","Birmingham",42749
+"Vitality Stadium","Bournemouth",11307

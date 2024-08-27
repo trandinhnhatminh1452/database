@@ -1,0 +1,21 @@
+"club_name","point","goal_difference","position","stadium_name","club_code","won","drawn","lost","played"
+"Arsenal",23,-2,15,"Emirates Stadium","ARS",7,2,10,19
+"Aston Villa",23,-10,16,"Villa Park","AVL",6,5,8,19
+"Bournemouth",35,19,2,"Vitality Stadium","BOU",11,2,6,19
+"Brentford",27,9,8," Gtech Community Stadium","BRE",9,0,10,19
+"Brighton and Hove Albion",29,-1,7,"Amex Stadium","BHA",9,2,8,19
+"Burnley",25,-2,12,"Turf Moor","BUR",7,4,8,19
+"Chelsea",24,13,13,"Stamford Bridge","CHE",7,3,9,19
+"Crystal Palace",20,-16,20,"Selhurst Park","CRY",6,2,11,19
+"Everton",22,-11,17,"Goodison Park","EVE",6,4,9,19
+"Fulham",27,1,9,"Craven Cottage","FUL",9,0,10,19
+"Liverpool",30,1,6,"Anfield","LIV",9,3,7,19
+"Luton Town",27,-17,11,"Kenilworth Road","LUT",9,0,10,19
+"Manchester City",42,29,1,"Etihad Stadium","MCI",13,3,3,19
+"Manchester United",30,8,5,"Old Trafford","MUN",9,3,7,19
+"Newcastle United",20,-16,19,"St James' Park","NEW",6,2,11,19
+"Nottingham Forest",27,-3,10,"City Ground","NOT",7,6,6,19
+"Sheffield United",22,-12,18,"Bramall Lane","SHE",6,4,9,19
+"Tottenham Hotspur",24,-6,14,"Tottenham Hotspur Stadium","TOT",7,3,9,19
+"West Ham United",33,13,3," London Stadium","WHU",9,6,4,19
+"Wolverhampton Wanderers",31,3,4,"Molineux Stadium","WOL",9,4,6,19

@@ -1,0 +1,782 @@
+"coach_id","club_name","event","match_id","event_time","event_half"
+"1","Wolverhampton Wanderers","participate","BHAWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","MCIWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLBHA",NULL,NULL
+"1","Wolverhampton Wanderers","participate","ARSWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","FULWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLMCI",NULL,NULL
+"1","Wolverhampton Wanderers","participate","LIVWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","BOUWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","BREWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLSHE",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WHUWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","BURWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLBUR",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLCRY",NULL,NULL
+"1","Wolverhampton Wanderers","participate","CHEWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLEVE",NULL,NULL
+"1","Wolverhampton Wanderers","participate","SHEWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLNOT",NULL,NULL
+"1","Wolverhampton Wanderers","participate","TOTWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLCHE",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLTOT",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLBRE",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLBOU",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLARS",NULL,NULL
+"1","Wolverhampton Wanderers","participate","EVEWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","CRYWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLFUL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","MUNWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLNEW",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLLIV",NULL,NULL
+"1","Wolverhampton Wanderers","participate","NOTWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","LUTWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLWHU",NULL,NULL
+"1","Wolverhampton Wanderers","participate","NEWWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLMUN",NULL,NULL
+"1","Wolverhampton Wanderers","participate","AVLWOL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLAVL",NULL,NULL
+"1","Wolverhampton Wanderers","participate","WOLLUT",NULL,NULL
+"2","West Ham United","participate","WHUARS",NULL,NULL
+"2","West Ham United","participate","WHUMUN",NULL,NULL
+"2","West Ham United","participate","TOTWHU",NULL,NULL
+"2","West Ham United","participate","BOUWHU",NULL,NULL
+"2","West Ham United","participate","WHUEVE",NULL,NULL
+"2","West Ham United","participate","WHUMCI",NULL,NULL
+"2","West Ham United","participate","MCIWHU",NULL,NULL
+"2","West Ham United","participate","BREWHU",NULL,NULL
+"2","West Ham United","participate","NOTWHU",NULL,NULL
+"2","West Ham United","participate","WHUBUR",NULL,NULL
+"2","West Ham United","participate","WHUSHE",NULL,NULL
+"2","West Ham United","participate","WHUWOL",NULL,NULL
+"2","West Ham United","participate","WHUBHA",NULL,NULL
+"2","West Ham United","participate","WHUCHE",NULL,NULL
+"2","West Ham United","participate","WHUFUL",NULL,NULL
+"2","West Ham United","participate","EVEWHU",NULL,NULL
+"2","West Ham United","participate","BURWHU",NULL,NULL
+"2","West Ham United","participate","WHUNEW",NULL,NULL
+"2","West Ham United","participate","WHUBRE",NULL,NULL
+"2","West Ham United","participate","SHEWHU",NULL,NULL
+"2","West Ham United","participate","BHAWHU",NULL,NULL
+"2","West Ham United","participate","WHUNOT",NULL,NULL
+"2","West Ham United","participate","ARSWHU",NULL,NULL
+"2","West Ham United","participate","CRYWHU",NULL,NULL
+"2","West Ham United","participate","LUTWHU",NULL,NULL
+"2","West Ham United","participate","WOLWHU",NULL,NULL
+"2","West Ham United","participate","NEWWHU",NULL,NULL
+"2","West Ham United","participate","WHUBOU",NULL,NULL
+"2","West Ham United","participate","WHULUT",NULL,NULL
+"2","West Ham United","participate","LIVWHU",NULL,NULL
+"2","West Ham United","participate","WHUAVL",NULL,NULL
+"2","West Ham United","participate","WHULIV",NULL,NULL
+"2","West Ham United","participate","WHUTOT",NULL,NULL
+"2","West Ham United","participate","AVLWHU",NULL,NULL
+"2","West Ham United","participate","CHEWHU",NULL,NULL
+"2","West Ham United","participate","WHUCRY",NULL,NULL
+"2","West Ham United","participate","FULWHU",NULL,NULL
+"2","West Ham United","participate","MUNWHU",NULL,NULL
+"3","Tottenham Hotspur","participate","SHETOT",NULL,NULL
+"3","Tottenham Hotspur","participate","MCITOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTMCI",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTNOT",NULL,NULL
+"3","Tottenham Hotspur","participate","EVETOT",NULL,NULL
+"3","Tottenham Hotspur","participate","BURTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","NOTTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTMUN",NULL,NULL
+"3","Tottenham Hotspur","Ban","TOTLIV",NULL,NULL
+"3","Tottenham Hotspur","participate","BOUTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","CHETOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTLUT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTEVE",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTARS",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTFUL",NULL,NULL
+"3","Tottenham Hotspur","participate","MUNTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTCRY",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTCHE",NULL,NULL
+"3","Tottenham Hotspur","participate","LUTTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTBRE",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTBUR",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTWOL",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTBOU",NULL,NULL
+"3","Tottenham Hotspur","participate","LIVTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTBHA",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTAVL",NULL,NULL
+"3","Tottenham Hotspur","participate","AVLTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","NEWTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","FULTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTWHU",NULL,NULL
+"3","Tottenham Hotspur","participate","CRYTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","ARSTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTSHE",NULL,NULL
+"3","Tottenham Hotspur","participate","BRETOT",NULL,NULL
+"3","Tottenham Hotspur","participate","BHATOT",NULL,NULL
+"3","Tottenham Hotspur","participate","WHUTOT",NULL,NULL
+"3","Tottenham Hotspur","participate","TOTNEW",NULL,NULL
+"3","Tottenham Hotspur","participate","WOLTOT",NULL,NULL
+"4","Sheffield United","participate","NEWSHE",NULL,NULL
+"4","Sheffield United","participate","SHECHE",NULL,NULL
+"4","Sheffield United","participate","SHEBUR",NULL,NULL
+"4","Sheffield United","participate","BOUSHE",NULL,NULL
+"4","Sheffield United","participate","SHEFUL",NULL,NULL
+"4","Sheffield United","participate","SHEBRE",NULL,NULL
+"4","Sheffield United","participate","LUTSHE",NULL,NULL
+"4","Sheffield United","participate","NOTSHE",NULL,NULL
+"4","Sheffield United","participate","SHEMCI",NULL,NULL
+"4","Sheffield United","participate","BHASHE",NULL,NULL
+"4","Sheffield United","participate","SHEBOU",NULL,NULL
+"4","Sheffield United","participate","SHEBHA",NULL,NULL
+"4","Sheffield United","Ban","SHENOT",NULL,NULL
+"4","Sheffield United","participate","BRESHE",NULL,NULL
+"4","Sheffield United","participate","LIVSHE",NULL,NULL
+"4","Sheffield United","participate","SHEARS",NULL,NULL
+"4","Sheffield United","participate","FULSHE",NULL,NULL
+"4","Sheffield United","participate","SHEMUN",NULL,NULL
+"4","Sheffield United","participate","ARSSHE",NULL,NULL
+"4","Sheffield United","participate","SHELUT",NULL,NULL
+"4","Sheffield United","participate","SHENEW",NULL,NULL
+"4","Sheffield United","participate","SHEAVL",NULL,NULL
+"4","Sheffield United","participate","WOLSHE",NULL,NULL
+"4","Sheffield United","participate","EVESHE",NULL,NULL
+"4","Sheffield United","participate","AVLSHE",NULL,NULL
+"4","Sheffield United","participate","CRYSHE",NULL,NULL
+"4","Sheffield United","participate","MUNSHE",NULL,NULL
+"4","Sheffield United","participate","CHESHE",NULL,NULL
+"4","Sheffield United","participate","SHEWOL",NULL,NULL
+"4","Sheffield United","participate","SHETOT",NULL,NULL
+"4","Sheffield United","participate","SHEWHU",NULL,NULL
+"4","Sheffield United","participate","SHEEVE",NULL,NULL
+"4","Sheffield United","participate","SHECRY",NULL,NULL
+"4","Sheffield United","participate","WHUSHE",NULL,NULL
+"4","Sheffield United","participate","TOTSHE",NULL,NULL
+"4","Sheffield United","participate","SHELIV",NULL,NULL
+"4","Sheffield United","participate","BURSHE",NULL,NULL
+"4","Sheffield United","participate","MCISHE",NULL,NULL
+"5","Nottingham Forest","participate","NEWNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTEVE",NULL,NULL
+"5","Nottingham Forest","participate","WHUNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTNEW",NULL,NULL
+"5","Nottingham Forest","participate","NOTFUL",NULL,NULL
+"5","Nottingham Forest","participate","MUNNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTLIV",NULL,NULL
+"5","Nottingham Forest","participate","AVLNOT",NULL,NULL
+"5","Nottingham Forest","participate","ARSNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTCHE",NULL,NULL
+"5","Nottingham Forest","participate","BURNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTARS",NULL,NULL
+"5","Nottingham Forest","participate","NOTBOU",NULL,NULL
+"5","Nottingham Forest","participate","CHENOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTBHA",NULL,NULL
+"5","Nottingham Forest","participate","FULNOT",NULL,NULL
+"5","Nottingham Forest","participate","WOLNOT",NULL,NULL
+"5","Nottingham Forest","Ban","NOTBUR",NULL,NULL
+"5","Nottingham Forest","participate","MCINOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTWOL",NULL,NULL
+"5","Nottingham Forest","participate","NOTMCI",NULL,NULL
+"5","Nottingham Forest","participate","LUTNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTCRY",NULL,NULL
+"5","Nottingham Forest","participate","NOTAVL",NULL,NULL
+"5","Nottingham Forest","participate","CRYNOT",NULL,NULL
+"5","Nottingham Forest","participate","SHENOT",NULL,NULL
+"5","Nottingham Forest","participate","TOTNOT",NULL,NULL
+"5","Nottingham Forest","participate","BOUNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTMUN",NULL,NULL
+"5","Nottingham Forest","participate","LIVNOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTTOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTWHU",NULL,NULL
+"5","Nottingham Forest","participate","NOTSHE",NULL,NULL
+"5","Nottingham Forest","participate","BHANOT",NULL,NULL
+"5","Nottingham Forest","participate","NOTLUT",NULL,NULL
+"5","Nottingham Forest","participate","NOTBRE",NULL,NULL
+"5","Nottingham Forest","participate","EVENOT",NULL,NULL
+"5","Nottingham Forest","participate","BRENOT",NULL,NULL
+"6","Newcastle United","participate","TOTNEW",NULL,NULL
+"6","Newcastle United","participate","NEWAVL",NULL,NULL
+"6","Newcastle United","participate","LIVNEW",NULL,NULL
+"6","Newcastle United","participate","NEWWHU",NULL,NULL
+"6","Newcastle United","participate","NEWTOT",NULL,NULL
+"6","Newcastle United","participate","EVENEW",NULL,NULL
+"6","Newcastle United","participate","NEWBHA",NULL,NULL
+"6","Newcastle United","participate","NOTNEW",NULL,NULL
+"6","Newcastle United","participate","NEWSHE",NULL,NULL
+"6","Newcastle United","participate","BHANEW",NULL,NULL
+"6","Newcastle United","participate","NEWLUT",NULL,NULL
+"6","Newcastle United","participate","NEWLIV",NULL,NULL
+"6","Newcastle United","participate","LUTNEW",NULL,NULL
+"6","Newcastle United","participate","NEWMUN",NULL,NULL
+"6","Newcastle United","participate","BOUNEW",NULL,NULL
+"6","Newcastle United","participate","WHUNEW",NULL,NULL
+"6","Newcastle United","participate","NEWEVE",NULL,NULL
+"6","Newcastle United","participate","NEWFUL",NULL,NULL
+"6","Newcastle United","participate","NEWMCI",NULL,NULL
+"6","Newcastle United","participate","MUNNEW",NULL,NULL
+"6","Newcastle United","participate","FULNEW",NULL,NULL
+"6","Newcastle United","participate","ARSNEW",NULL,NULL
+"6","Newcastle United","participate","WOLNEW",NULL,NULL
+"6","Newcastle United","participate","SHENEW",NULL,NULL
+"6","Newcastle United","participate","NEWCRY",NULL,NULL
+"6","Newcastle United","participate","NEWCHE",NULL,NULL
+"6","Newcastle United","participate","BURNEW",NULL,NULL
+"6","Newcastle United","participate","NEWARS",NULL,NULL
+"6","Newcastle United","participate","CHENEW",NULL,NULL
+"6","Newcastle United","participate","NEWNOT",NULL,NULL
+"6","Newcastle United","participate","BRENEW",NULL,NULL
+"6","Newcastle United","participate","NEWWOL",NULL,NULL
+"6","Newcastle United","participate","AVLNEW",NULL,NULL
+"6","Newcastle United","participate","CRYNEW",NULL,NULL
+"6","Newcastle United","participate","NEWBUR",NULL,NULL
+"6","Newcastle United","participate","MCINEW",NULL,NULL
+"6","Newcastle United","participate","NEWBOU",NULL,NULL
+"6","Newcastle United","participate","NEWBRE",NULL,NULL
+"7","Manchester United","participate","BURMUN",NULL,NULL
+"7","Manchester United","participate","MUNBRE",NULL,NULL
+"7","Manchester United","participate","MUNBHA",NULL,NULL
+"7","Manchester United","participate","MUNARS",NULL,NULL
+"7","Manchester United","participate","MUNTOT",NULL,NULL
+"7","Manchester United","participate","MUNNOT",NULL,NULL
+"7","Manchester United","participate","MUNWOL",NULL,NULL
+"7","Manchester United","participate","MUNLUT",NULL,NULL
+"7","Manchester United","participate","MUNFUL",NULL,NULL
+"7","Manchester United","participate","MUNCRY",NULL,NULL
+"7","Manchester United","participate","MUNBUR",NULL,NULL
+"7","Manchester United","participate","MUNBOU",NULL,NULL
+"7","Manchester United","participate","MUNAVL",NULL,NULL
+"7","Manchester United","participate","MUNWHU",NULL,NULL
+"7","Manchester United","participate","MUNSHE",NULL,NULL
+"7","Manchester United","participate","MUNNEW",NULL,NULL
+"7","Manchester United","participate","MUNMCI",NULL,NULL
+"7","Manchester United","participate","MUNLIV",NULL,NULL
+"7","Manchester United","participate","MUNEVE",NULL,NULL
+"7","Manchester United","participate","MUNCHE",NULL,NULL
+"7","Manchester United","participate","BREMUN",NULL,NULL
+"7","Manchester United","participate","BHAMUN",NULL,NULL
+"7","Manchester United","participate","ARSMUN",NULL,NULL
+"7","Manchester United","participate","TOTMUN",NULL,NULL
+"7","Manchester United","participate","NOTMUN",NULL,NULL
+"7","Manchester United","participate","WOLMUN",NULL,NULL
+"7","Manchester United","participate","LUTMUN",NULL,NULL
+"7","Manchester United","participate","FULMUN",NULL,NULL
+"7","Manchester United","participate","CRYMUN",NULL,NULL
+"7","Manchester United","participate","BOUMUN",NULL,NULL
+"7","Manchester United","participate","AVLMUN",NULL,NULL
+"7","Manchester United","participate","WHUMUN",NULL,NULL
+"7","Manchester United","participate","SHEMUN",NULL,NULL
+"7","Manchester United","participate","NEWMUN",NULL,NULL
+"7","Manchester United","participate","MCIMUN",NULL,NULL
+"7","Manchester United","participate","LIVMUN",NULL,NULL
+"7","Manchester United","participate","EVEMUN",NULL,NULL
+"7","Manchester United","participate","CHEMUN",NULL,NULL
+"8","Manchester City","participate","MCIBHA",NULL,NULL
+"8","Manchester City","participate","MUNMCI",NULL,NULL
+"8","Manchester City","participate","MCIAVL",NULL,NULL
+"8","Manchester City","participate","CRYMCI",NULL,NULL
+"8","Manchester City","participate","BURMCI",NULL,NULL
+"8","Manchester City","participate","MCIBOU",NULL,NULL
+"8","Manchester City","participate","WOLMCI",NULL,NULL
+"8","Manchester City","participate","NEWMCI",NULL,NULL
+"8","Manchester City","participate","MCIMUN",NULL,NULL
+"8","Manchester City","participate","MCIWOL",NULL,NULL
+"8","Manchester City","participate","MCIARS",NULL,NULL
+"8","Manchester City","participate","MCILIV",NULL,NULL
+"8","Manchester City","participate","MCITOT",NULL,NULL
+"8","Manchester City","participate","MCIWHU",NULL,NULL
+"8","Manchester City","participate","MCIEVE",NULL,NULL
+"8","Manchester City","participate","CHEMCI",NULL,NULL
+"8","Manchester City","participate","SHEMCI",NULL,NULL
+"8","Manchester City","participate","BOUMCI",NULL,NULL
+"8","Manchester City","participate","NOTMCI",NULL,NULL
+"8","Manchester City","participate","MCICRY",NULL,NULL
+"8","Manchester City","participate","ARSMCI",NULL,NULL
+"8","Manchester City","participate","MCINOT",NULL,NULL
+"8","Manchester City","participate","MCISHE",NULL,NULL
+"8","Manchester City","participate","MCIBUR",NULL,NULL
+"8","Manchester City","participate","EVEMCI",NULL,NULL
+"8","Manchester City","participate","MCICHE",NULL,NULL
+"8","Manchester City","Ban","LIVMCI",NULL,NULL
+"8","Manchester City","participate","TOTMCI",NULL,NULL
+"8","Manchester City","participate","LUTMCI",NULL,NULL
+"8","Manchester City","participate","AVLMCI",NULL,NULL
+"8","Manchester City","participate","MCIBRE",NULL,NULL
+"8","Manchester City","participate","MCILUT",NULL,NULL
+"8","Manchester City","participate","MCINEW",NULL,NULL
+"8","Manchester City","participate","FULMCI",NULL,NULL
+"8","Manchester City","participate","BHAMCI",NULL,NULL
+"8","Manchester City","participate","MCIFUL",NULL,NULL
+"8","Manchester City","participate","BREMCI",NULL,NULL
+"8","Manchester City","participate","WHUMCI",NULL,NULL
+"9","Luton Town","participate","BHALUT",NULL,NULL
+"9","Luton Town","participate","LUTAVL",NULL,NULL
+"9","Luton Town","participate","WOLLUT",NULL,NULL
+"9","Luton Town","participate","BURLUT",NULL,NULL
+"9","Luton Town","participate","LUTMCI",NULL,NULL
+"9","Luton Town","participate","LUTBHA",NULL,NULL
+"9","Luton Town","participate","LUTWHU",NULL,NULL
+"9","Luton Town","participate","AVLLUT",NULL,NULL
+"9","Luton Town","participate","LUTSHE",NULL,NULL
+"9","Luton Town","participate","LUTARS",NULL,NULL
+"9","Luton Town","participate","BOULUT",NULL,NULL
+"9","Luton Town","participate","EVELUT",NULL,NULL
+"9","Luton Town","participate","LUTNEW",NULL,NULL
+"9","Luton Town","participate","BRELUT",NULL,NULL
+"9","Luton Town","participate","MUNLUT",NULL,NULL
+"9","Luton Town","participate","LUTTOT",NULL,NULL
+"9","Luton Town","participate","MCILUT",NULL,NULL
+"9","Luton Town","participate","LUTNOT",NULL,NULL
+"9","Luton Town","participate","FULLUT",NULL,NULL
+"9","Luton Town","participate","NEWLUT",NULL,NULL
+"9","Luton Town","participate","TOTLUT",NULL,NULL
+"9","Luton Town","participate","CRYLUT",NULL,NULL
+"9","Luton Town","participate","LUTMUN",NULL,NULL
+"9","Luton Town","participate","LUTWOL",NULL,NULL
+"9","Luton Town","participate","NOTLUT",NULL,NULL
+"9","Luton Town","participate","CHELUT",NULL,NULL
+"9","Luton Town","participate","SHELUT",NULL,NULL
+"9","Luton Town","participate","LUTFUL",NULL,NULL
+"9","Luton Town","participate","ARSLUT",NULL,NULL
+"9","Luton Town","participate","LUTEVE",NULL,NULL
+"9","Luton Town","participate","LIVLUT",NULL,NULL
+"9","Luton Town","participate","LUTCRY",NULL,NULL
+"9","Luton Town","participate","LUTBRE",NULL,NULL
+"9","Luton Town","participate","WHULUT",NULL,NULL
+"9","Luton Town","participate","LUTLIV",NULL,NULL
+"9","Luton Town","participate","LUTBUR",NULL,NULL
+"9","Luton Town","participate","LUTCHE",NULL,NULL
+"9","Luton Town","participate","LUTBOU",NULL,NULL
+"10","Liverpool","participate","LIVBOU",NULL,NULL
+"10","Liverpool","participate","WHULIV",NULL,NULL
+"10","Liverpool","participate","NEWLIV",NULL,NULL
+"10","Liverpool","participate","LUTLIV",NULL,NULL
+"10","Liverpool","participate","SHELIV",NULL,NULL
+"10","Liverpool","participate","LIVAVL",NULL,NULL
+"10","Liverpool","participate","LIVWHU",NULL,NULL
+"10","Liverpool","participate","MUNLIV",NULL,NULL
+"10","Liverpool","participate","LIVSHE",NULL,NULL
+"10","Liverpool","participate","NOTLIV",NULL,NULL
+"10","Liverpool","participate","LIVNEW",NULL,NULL
+"10","Liverpool","participate","LIVMCI",NULL,NULL
+"10","Liverpool","participate","TOTLIV",NULL,NULL
+"10","Liverpool","participate","LIVWOL",NULL,NULL
+"10","Liverpool","participate","LIVEVE",NULL,NULL
+"10","Liverpool","participate","ARSLIV",NULL,NULL
+"10","Liverpool","participate","LIVBUR",NULL,NULL
+"10","Liverpool","participate","LIVCHE",NULL,NULL
+"10","Liverpool","participate","LIVBRE",NULL,NULL
+"10","Liverpool","participate","LIVBHA",NULL,NULL
+"10","Liverpool","participate","LIVARS",NULL,NULL
+"10","Liverpool","participate","BHALIV",NULL,NULL
+"10","Liverpool","participate","LIVTOT",NULL,NULL
+"10","Liverpool","participate","BRELIV",NULL,NULL
+"10","Liverpool","participate","LIVNOT",NULL,NULL
+"10","Liverpool","participate","CHELIV",NULL,NULL
+"10","Liverpool","participate","LIVMUN",NULL,NULL
+"10","Liverpool","participate","LIVLUT",NULL,NULL
+"10","Liverpool","participate","LIVFUL",NULL,NULL
+"10","Liverpool","participate","CRYLIV",NULL,NULL
+"10","Liverpool","participate","EVELIV",NULL,NULL
+"10","Liverpool","participate","LIVCRY",NULL,NULL
+"10","Liverpool","Ban","WOLLIV",NULL,NULL
+"10","Liverpool","participate","FULLIV",NULL,NULL
+"10","Liverpool","participate","BURLIV",NULL,NULL
+"10","Liverpool","participate","BOULIV",NULL,NULL
+"10","Liverpool","participate","AVLLIV",NULL,NULL
+"10","Liverpool","participate","MCILIV",NULL,NULL
+"11","Fulham","participate","FULCRY",NULL,NULL
+"11","Fulham","participate","MUNFUL",NULL,NULL
+"11","Fulham","participate","AVLFUL",NULL,NULL
+"11","Fulham","participate","FULBRE",NULL,NULL
+"11","Fulham","participate","FULLIV",NULL,NULL
+"11","Fulham","participate","FULWOL",NULL,NULL
+"11","Fulham","participate","FULLUT",NULL,NULL
+"11","Fulham","participate","EVEFUL",NULL,NULL
+"11","Fulham","participate","FULEVE",NULL,NULL
+"11","Fulham","participate","MCIFUL",NULL,NULL
+"11","Fulham","participate","WHUFUL",NULL,NULL
+"11","Fulham","participate","FULMUN",NULL,NULL
+"11","Fulham","participate","FULNOT",NULL,NULL
+"11","Fulham","participate","SHEFUL",NULL,NULL
+"11","Fulham","participate","TOTFUL",NULL,NULL
+"11","Fulham","participate","ARSFUL",NULL,NULL
+"11","Fulham","participate","WOLFUL",NULL,NULL
+"11","Fulham","participate","BHAFUL",NULL,NULL
+"11","Fulham","participate","LUTFUL",NULL,NULL
+"11","Fulham","participate","FULTOT",NULL,NULL
+"11","Fulham","participate","NOTFUL",NULL,NULL
+"11","Fulham","participate","NEWFUL",NULL,NULL
+"11","Fulham","participate","FULARS",NULL,NULL
+"11","Fulham","participate","FULBHA",NULL,NULL
+"11","Fulham","participate","LIVFUL",NULL,NULL
+"11","Fulham","participate","FULCHE",NULL,NULL
+"11","Fulham","participate","BURFUL",NULL,NULL
+"11","Fulham","participate","FULSHE",NULL,NULL
+"11","Fulham","participate","FULWHU",NULL,NULL
+"11","Fulham","participate","BOUFUL",NULL,NULL
+"11","Fulham","participate","CRYFUL",NULL,NULL
+"11","Fulham","participate","FULAVL",NULL,NULL
+"11","Fulham","participate","CHEFUL",NULL,NULL
+"11","Fulham","participate","BREFUL",NULL,NULL
+"11","Fulham","participate","FULBOU",NULL,NULL
+"11","Fulham","participate","FULNEW",NULL,NULL
+"11","Fulham","participate","FULBUR",NULL,NULL
+"11","Fulham","participate","FULMCI",NULL,NULL
+"12","Everton","participate","EVEFUL",NULL,NULL
+"12","Everton","participate","LUTEVE",NULL,NULL
+"12","Everton","participate","MUNEVE",NULL,NULL
+"12","Everton","participate","NOTEVE",NULL,NULL
+"12","Everton","participate","TOTEVE",NULL,NULL
+"12","Everton","participate","ARSEVE",NULL,NULL
+"12","Everton","participate","BHAEVE",NULL,NULL
+"12","Everton","participate","BREEVE",NULL,NULL
+"12","Everton","participate","CHEEVE",NULL,NULL
+"12","Everton","participate","WOLEVE",NULL,NULL
+"12","Everton","participate","LIVEVE",NULL,NULL
+"12","Everton","participate","MCIEVE",NULL,NULL
+"12","Everton","participate","NEWEVE",NULL,NULL
+"12","Everton","participate","SHEEVE",NULL,NULL
+"12","Everton","participate","WHUEVE",NULL,NULL
+"12","Everton","participate","AVLEVE",NULL,NULL
+"12","Everton","participate","BOUEVE",NULL,NULL
+"12","Everton","participate","BUREVE",NULL,NULL
+"12","Everton","participate","CRYEVE",NULL,NULL
+"12","Everton","participate","FULEVE",NULL,NULL
+"12","Everton","participate","EVELUT",NULL,NULL
+"12","Everton","participate","EVEMUN",NULL,NULL
+"12","Everton","participate","EVENOT",NULL,NULL
+"12","Everton","participate","EVETOT",NULL,NULL
+"12","Everton","participate","EVEARS",NULL,NULL
+"12","Everton","participate","EVEBHA",NULL,NULL
+"12","Everton","participate","EVEBRE",NULL,NULL
+"12","Everton","participate","EVECHE",NULL,NULL
+"12","Everton","participate","EVEWOL",NULL,NULL
+"12","Everton","participate","EVELIV",NULL,NULL
+"12","Everton","participate","EVEMCI",NULL,NULL
+"12","Everton","participate","EVENEW",NULL,NULL
+"12","Everton","participate","EVESHE",NULL,NULL
+"12","Everton","participate","EVEWHU",NULL,NULL
+"12","Everton","participate","EVEAVL",NULL,NULL
+"12","Everton","participate","EVEBOU",NULL,NULL
+"12","Everton","participate","EVEBUR",NULL,NULL
+"12","Everton","participate","EVECRY",NULL,NULL
+"13","Crystal Palace","participate","CRYCHE",NULL,NULL
+"13","Crystal Palace","participate","CRYFUL",NULL,NULL
+"13","Crystal Palace","participate","CRYMCI",NULL,NULL
+"13","Crystal Palace","participate","MUNCRY",NULL,NULL
+"13","Crystal Palace","participate","CRYEVE",NULL,NULL
+"13","Crystal Palace","participate","LIVCRY",NULL,NULL
+"13","Crystal Palace","participate","TOTCRY",NULL,NULL
+"13","Crystal Palace","participate","BOUCRY",NULL,NULL
+"13","Crystal Palace","participate","LUTCRY",NULL,NULL
+"13","Crystal Palace","participate","NOTCRY",NULL,NULL
+"13","Crystal Palace","participate","CRYWOL",NULL,NULL
+"13","Crystal Palace","participate","ARSCRY",NULL,NULL
+"13","Crystal Palace","participate","BURCRY",NULL,NULL
+"13","Crystal Palace","participate","CRYLUT",NULL,NULL
+"13","Crystal Palace","participate","CRYNOT",NULL,NULL
+"13","Crystal Palace","participate","CRYBHA",NULL,NULL
+"13","Crystal Palace","participate","CRYBUR",NULL,NULL
+"13","Crystal Palace","participate","CRYBOU",NULL,NULL
+"13","Crystal Palace","participate","CRYBRE",NULL,NULL
+"13","Crystal Palace","participate","CRYLIV",NULL,NULL
+"13","Crystal Palace","participate","CRYAVL",NULL,NULL
+"13","Crystal Palace","participate","CRYMUN",NULL,NULL
+"13","Crystal Palace","participate","MCICRY",NULL,NULL
+"13","Crystal Palace","Ban","CRYTOT",NULL,NULL
+"13","Crystal Palace","participate","CRYWHU",NULL,NULL
+"13","Crystal Palace","participate","WHUCRY",NULL,NULL
+"13","Crystal Palace","participate","AVLCRY",NULL,NULL
+"13","Crystal Palace","participate","WOLCRY",NULL,NULL
+"13","Crystal Palace","participate","CRYARS",NULL,NULL
+"13","Crystal Palace","participate","FULCRY",NULL,NULL
+"13","Crystal Palace","participate","CHECRY",NULL,NULL
+"13","Crystal Palace","participate","SHECRY",NULL,NULL
+"13","Crystal Palace","participate","EVECRY",NULL,NULL
+"13","Crystal Palace","participate","CRYSHE",NULL,NULL
+"13","Crystal Palace","participate","BHACRY",NULL,NULL
+"13","Crystal Palace","participate","NEWCRY",NULL,NULL
+"13","Crystal Palace","participate","BRECRY",NULL,NULL
+"13","Crystal Palace","participate","CRYNEW",NULL,NULL
+"14","Chelsea","participate","CHELIV",NULL,NULL
+"14","Chelsea","participate","CHENEW",NULL,NULL
+"14","Chelsea","participate","CHESHE",NULL,NULL
+"14","Chelsea","participate","CHEWHU",NULL,NULL
+"14","Chelsea","participate","ARSCHE",NULL,NULL
+"14","Chelsea","participate","MUNCHE",NULL,NULL
+"14","Chelsea","participate","CRYCHE",NULL,NULL
+"14","Chelsea","participate","FULCHE",NULL,NULL
+"14","Chelsea","participate","NEWCHE",NULL,NULL
+"14","Chelsea","participate","WHUCHE",NULL,NULL
+"14","Chelsea","participate","MCICHE",NULL,NULL
+"14","Chelsea","participate","LUTCHE",NULL,NULL
+"14","Chelsea","participate","CHEMUN",NULL,NULL
+"14","Chelsea","participate","BURCHE",NULL,NULL
+"14","Chelsea","participate","CHECRY",NULL,NULL
+"14","Chelsea","participate","CHENOT",NULL,NULL
+"14","Chelsea","participate","CHETOT",NULL,NULL
+"14","Chelsea","participate","BOUCHE",NULL,NULL
+"14","Chelsea","participate","LIVCHE",NULL,NULL
+"14","Chelsea","participate","CHEFUL",NULL,NULL
+"14","Chelsea","participate","NOTCHE",NULL,NULL
+"14","Chelsea","participate","EVECHE",NULL,NULL
+"14","Chelsea","participate","CHEARS",NULL,NULL
+"14","Chelsea","participate","SHECHE",NULL,NULL
+"14","Chelsea","participate","CHEBHA",NULL,NULL
+"14","Chelsea","participate","CHEBUR",NULL,NULL
+"14","Chelsea","participate","CHEBOU",NULL,NULL
+"14","Chelsea","participate","CHEBRE",NULL,NULL
+"14","Chelsea","participate","CHEWOL",NULL,NULL
+"14","Chelsea","participate","WOLCHE",NULL,NULL
+"14","Chelsea","participate","BRECHE",NULL,NULL
+"14","Chelsea","participate","AVLCHE",NULL,NULL
+"14","Chelsea","participate","CHEEVE",NULL,NULL
+"14","Chelsea","participate","TOTCHE",NULL,NULL
+"14","Chelsea","participate","CHEAVL",NULL,NULL
+"14","Chelsea","participate","CHEMCI",NULL,NULL
+"14","Chelsea","participate","CHELUT",NULL,NULL
+"14","Chelsea","participate","BHACHE",NULL,NULL
+"15","Burnley","participate","BURNOT",NULL,NULL
+"15","Burnley","participate","BURBOU",NULL,NULL
+"15","Burnley","participate","BREBUR",NULL,NULL
+"15","Burnley","participate","BURTOT",NULL,NULL
+"15","Burnley","participate","MUNBUR",NULL,NULL
+"15","Burnley","participate","NOTBUR",NULL,NULL
+"15","Burnley","participate","BURARS",NULL,NULL
+"15","Burnley","participate","BURMCI",NULL,NULL
+"15","Burnley","participate","BURCRY",NULL,NULL
+"15","Burnley","participate","BURCHE",NULL,NULL
+"15","Burnley","participate","LUTBUR",NULL,NULL
+"15","Burnley","participate","BURBRE",NULL,NULL
+"15","Burnley","participate","MCIBUR",NULL,NULL
+"15","Burnley","participate","BURMUN",NULL,NULL
+"15","Burnley","participate","TOTBUR",NULL,NULL
+"15","Burnley","participate","EVEBUR",NULL,NULL
+"15","Burnley","participate","BHABUR",NULL,NULL
+"15","Burnley","participate","BURNEW",NULL,NULL
+"15","Burnley","participate","ARSBUR",NULL,NULL
+"15","Burnley","participate","BURWOL",NULL,NULL
+"15","Burnley","participate","SHEBUR",NULL,NULL
+"15","Burnley","participate","BURFUL",NULL,NULL
+"15","Burnley","participate","LIVBUR",NULL,NULL
+"15","Burnley","participate","FULBUR",NULL,NULL
+"15","Burnley","participate","WOLBUR",NULL,NULL
+"15","Burnley","participate","CHEBUR",NULL,NULL
+"15","Burnley","participate","AVLBUR",NULL,NULL
+"15","Burnley","participate","BUREVE",NULL,NULL
+"15","Burnley","participate","NEWBUR",NULL,NULL
+"15","Burnley","participate","WHUBUR",NULL,NULL
+"15","Burnley","participate","BURAVL",NULL,NULL
+"15","Burnley","participate","BURSHE",NULL,NULL
+"15","Burnley","participate","BOUBUR",NULL,NULL
+"15","Burnley","participate","BURWHU",NULL,NULL
+"15","Burnley","participate","CRYBUR",NULL,NULL
+"15","Burnley","participate","BURBHA",NULL,NULL
+"15","Burnley","participate","BURLUT",NULL,NULL
+"15","Burnley","participate","BURLIV",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAAVL",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAARS",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAWOL",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHANEW",NULL,NULL
+"16","Brighton and Hove Albion","participate","CHEBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAMUN",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHALUT",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHABUR",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHABRE",NULL,NULL
+"16","Brighton and Hove Albion","participate","FULBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","MCIBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","ARSBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAFUL",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHACHE",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHASHE",NULL,NULL
+"16","Brighton and Hove Albion","participate","LIVBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAEVE",NULL,NULL
+"16","Brighton and Hove Albion","participate","BURBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","AVLBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BREBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","CRYBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHALIV",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHACRY",NULL,NULL
+"16","Brighton and Hove Albion","participate","TOTBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","WOLBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAMCI",NULL,NULL
+"16","Brighton and Hove Albion","participate","LUTBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","NOTBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHANOT",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHABOU",NULL,NULL
+"16","Brighton and Hove Albion","participate","MUNBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BOUBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHATOT",NULL,NULL
+"16","Brighton and Hove Albion","participate","BHAWHU",NULL,NULL
+"16","Brighton and Hove Albion","participate","EVEBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","SHEBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","WHUBHA",NULL,NULL
+"16","Brighton and Hove Albion","participate","NEWBHA",NULL,NULL
+"17","Brentford","participate","LIVBRE",NULL,NULL
+"17","Brentford","participate","BREWHU",NULL,NULL
+"17","Brentford","participate","CHEBRE",NULL,NULL
+"17","Brentford","participate","BRELIV",NULL,NULL
+"17","Brentford","participate","ARSBRE",NULL,NULL
+"17","Brentford","participate","FULBRE",NULL,NULL
+"17","Brentford","participate","BREMUN",NULL,NULL
+"17","Brentford","participate","WOLBRE",NULL,NULL
+"17","Brentford","participate","CRYBRE",NULL,NULL
+"17","Brentford","participate","BREAVL",NULL,NULL
+"17","Brentford","participate","BURBRE",NULL,NULL
+"17","Brentford","participate","MUNBRE",NULL,NULL
+"17","Brentford","participate","BREARS",NULL,NULL
+"17","Brentford","participate","BREMCI",NULL,NULL
+"17","Brentford","participate","BRESHE",NULL,NULL
+"17","Brentford","participate","BRELUT",NULL,NULL
+"17","Brentford","participate","MCIBRE",NULL,NULL
+"17","Brentford","participate","BOUBRE",NULL,NULL
+"17","Brentford","participate","NEWBRE",NULL,NULL
+"17","Brentford","participate","BREFUL",NULL,NULL
+"17","Brentford","participate","BRENEW",NULL,NULL
+"17","Brentford","participate","BRECHE",NULL,NULL
+"17","Brentford","participate","BREBUR",NULL,NULL
+"17","Brentford","participate","NOTBRE",NULL,NULL
+"17","Brentford","participate","BHABRE",NULL,NULL
+"17","Brentford","participate","BRECRY",NULL,NULL
+"17","Brentford","participate","BREEVE",NULL,NULL
+"17","Brentford","participate","EVEBRE",NULL,NULL
+"17","Brentford","participate","WHUBRE",NULL,NULL
+"17","Brentford","participate","BREBOU",NULL,NULL
+"17","Brentford","participate","AVLBRE",NULL,NULL
+"17","Brentford","participate","BREWOL",NULL,NULL
+"17","Brentford","participate","LUTBRE",NULL,NULL
+"17","Brentford","participate","BREBHA",NULL,NULL
+"17","Brentford","participate","SHEBRE",NULL,NULL
+"17","Brentford","participate","BRENOT",NULL,NULL
+"17","Brentford","participate","TOTBRE",NULL,NULL
+"17","Brentford","participate","BRETOT",NULL,NULL
+"18","Bournemouth","participate","BURBOU",NULL,NULL
+"18","Bournemouth","participate","CHEBOU",NULL,NULL
+"18","Bournemouth","participate","EVEBOU",NULL,NULL
+"18","Bournemouth","participate","LIVBOU",NULL,NULL
+"18","Bournemouth","participate","TOTBOU",NULL,NULL
+"18","Bournemouth","participate","MCIBOU",NULL,NULL
+"18","Bournemouth","participate","NEWBOU",NULL,NULL
+"18","Bournemouth","participate","BOUSHE",NULL,NULL
+"18","Bournemouth","participate","NOTBOU",NULL,NULL
+"18","Bournemouth","participate","MUNBOU",NULL,NULL
+"18","Bournemouth","participate","BOUWHU",NULL,NULL
+"18","Bournemouth","participate","BOUMCI",NULL,NULL
+"18","Bournemouth","participate","BOUAVL",NULL,NULL
+"18","Bournemouth","participate","BOUWOL",NULL,NULL
+"18","Bournemouth","participate","LUTBOU",NULL,NULL
+"18","Bournemouth","participate","BOUBUR",NULL,NULL
+"18","Bournemouth","participate","FULBOU",NULL,NULL
+"18","Bournemouth","participate","BOUCRY",NULL,NULL
+"18","Bournemouth","participate","BOUFUL",NULL,NULL
+"18","Bournemouth","participate","BOULUT",NULL,NULL
+"18","Bournemouth","participate","CRYBOU",NULL,NULL
+"18","Bournemouth","participate","BOUMUN",NULL,NULL
+"18","Bournemouth","participate","BOUNOT",NULL,NULL
+"18","Bournemouth","participate","BOUNEW",NULL,NULL
+"18","Bournemouth","participate","BOUTOT",NULL,NULL
+"18","Bournemouth","Ban","WOLBOU",NULL,NULL
+"18","Bournemouth","participate","BOUARS",NULL,NULL
+"18","Bournemouth","participate","SHEBOU",NULL,NULL
+"18","Bournemouth","participate","BOUBHA",NULL,NULL
+"18","Bournemouth","participate","AVLBOU",NULL,NULL
+"18","Bournemouth","participate","BOUBRE",NULL,NULL
+"18","Bournemouth","participate","BOUCHE",NULL,NULL
+"18","Bournemouth","participate","BOUEVE",NULL,NULL
+"18","Bournemouth","participate","WHUBOU",NULL,NULL
+"18","Bournemouth","participate","BOULIV",NULL,NULL
+"18","Bournemouth","participate","BHABOU",NULL,NULL
+"18","Bournemouth","participate","BREBOU",NULL,NULL
+"18","Bournemouth","participate","ARSBOU",NULL,NULL
+"19","Aston Villa","participate","CRYAVL",NULL,NULL
+"19","Aston Villa","participate","BOUAVL",NULL,NULL
+"19","Aston Villa","participate","AVLTOT",NULL,NULL
+"19","Aston Villa","participate","AVLNOT",NULL,NULL
+"19","Aston Villa","participate","AVLCHE",NULL,NULL
+"19","Aston Villa","participate","FULAVL",NULL,NULL
+"19","Aston Villa","participate","AVLSHE",NULL,NULL
+"19","Aston Villa","participate","AVLMUN",NULL,NULL
+"19","Aston Villa","participate","AVLEVE",NULL,NULL
+"19","Aston Villa","participate","AVLLUT",NULL,NULL
+"19","Aston Villa","participate","EVEAVL",NULL,NULL
+"19","Aston Villa","participate","AVLFUL",NULL,NULL
+"19","Aston Villa","participate","WOLAVL",NULL,NULL
+"19","Aston Villa","participate","LUTAVL",NULL,NULL
+"19","Aston Villa","participate","AVLNEW",NULL,NULL
+"19","Aston Villa","participate","AVLCRY",NULL,NULL
+"19","Aston Villa","participate","MUNAVL",NULL,NULL
+"19","Aston Villa","participate","AVLLIV",NULL,NULL
+"19","Aston Villa","participate","AVLMCI",NULL,NULL
+"19","Aston Villa","participate","AVLBUR",NULL,NULL
+"19","Aston Villa","participate","BHAAVL",NULL,NULL
+"19","Aston Villa","participate","AVLBOU",NULL,NULL
+"19","Aston Villa","participate","AVLWOL",NULL,NULL
+"19","Aston Villa","participate","NOTAVL",NULL,NULL
+"19","Aston Villa","participate","WHUAVL",NULL,NULL
+"19","Aston Villa","participate","TOTAVL",NULL,NULL
+"19","Aston Villa","participate","BREAVL",NULL,NULL
+"19","Aston Villa","participate","AVLWHU",NULL,NULL
+"19","Aston Villa","participate","SHEAVL",NULL,NULL
+"19","Aston Villa","participate","LIVAVL",NULL,NULL
+"19","Aston Villa","participate","NEWAVL",NULL,NULL
+"19","Aston Villa","participate","ARSAVL",NULL,NULL
+"19","Aston Villa","participate","MCIAVL",NULL,NULL
+"19","Aston Villa","participate","CHEAVL",NULL,NULL
+"19","Aston Villa","participate","AVLBHA",NULL,NULL
+"19","Aston Villa","participate","BURAVL",NULL,NULL
+"19","Aston Villa","participate","AVLBRE",NULL,NULL
+"19","Aston Villa","participate","AVLARS",NULL,NULL
+"20","Arsenal","participate","ARSMUN",NULL,NULL
+"20","Arsenal","participate","BREARS",NULL,NULL
+"20","Arsenal","participate","CRYARS",NULL,NULL
+"20","Arsenal","participate","ARSWOL",NULL,NULL
+"20","Arsenal","participate","BURARS",NULL,NULL
+"20","Arsenal","participate","MUNARS",NULL,NULL
+"20","Arsenal","participate","ARSWHU",NULL,NULL
+"20","Arsenal","participate","ARSSHE",NULL,NULL
+"20","Arsenal","participate","ARSCHE",NULL,NULL
+"20","Arsenal","participate","ARSBRE",NULL,NULL
+"20","Arsenal","participate","LIVARS",NULL,NULL
+"20","Arsenal","participate","ARSCRY",NULL,NULL
+"20","Arsenal","participate","AVLARS",NULL,NULL
+"20","Arsenal","participate","TOTARS",NULL,NULL
+"20","Arsenal","participate","NOTARS",NULL,NULL
+"20","Arsenal","participate","ARSFUL",NULL,NULL
+"20","Arsenal","participate","ARSNEW",NULL,NULL
+"20","Arsenal","participate","ARSBHA",NULL,NULL
+"20","Arsenal","participate","ARSMCI",NULL,NULL
+"20","Arsenal","participate","ARSBOU",NULL,NULL
+"20","Arsenal","participate","EVEARS",NULL,NULL
+"20","Arsenal","participate","ARSNOT",NULL,NULL
+"20","Arsenal","participate","SHEARS",NULL,NULL
+"20","Arsenal","participate","ARSLIV",NULL,NULL
+"20","Arsenal","participate","WHUARS",NULL,NULL
+"20","Arsenal","participate","WOLARS",NULL,NULL
+"20","Arsenal","participate","MCIARS",NULL,NULL
+"20","Arsenal","participate","ARSEVE",NULL,NULL
+"20","Arsenal","participate","ARSBUR",NULL,NULL
+"20","Arsenal","participate","BOUARS",NULL,NULL
+"20","Arsenal","participate","BHAARS",NULL,NULL
+"20","Arsenal","participate","NEWARS",NULL,NULL
+"20","Arsenal","participate","FULARS",NULL,NULL
+"20","Arsenal","participate","CHEARS",NULL,NULL
+"20","Arsenal","participate","LUTARS",NULL,NULL
+"20","Arsenal","participate","ARSLUT",NULL,NULL
+"20","Arsenal","participate","ARSAVL",NULL,NULL
+"20","Arsenal","participate","ARSTOT",NULL,NULL
+"3","Tottenham Hotspur","red_card","MCITOT","41",1
+"4","Sheffield United","red_card","SHETOT","79",2
+"5","Nottingham Forest","red_card","CRYNOT","16",1
+"8","Manchester City","red_card","MCIWOL","58",2
+"10","Liverpool","red_card","MCILIV","62",2
+"13","Crystal Palace","red_card","ARSCRY","77",2
+"18","Bournemouth","red_card","BURBOU","49",2
+"20","Arsenal","red_card","ARSWOL","79",2
+"1","Wolverhampton Wanderers","yellow_card","WOLLIV","12",1
+"1","Wolverhampton Wanderers","yellow_card","WOLAVL","1",1
+"3","Tottenham Hotspur","yellow_card","NEWTOT","63",2
+"4","Sheffield United","yellow_card","MUNSHE","9",1
+"5","Nottingham Forest","yellow_card","LUTNOT","58",2
+"7","Manchester United","yellow_card","MUNBUR","29",1
+"8","Manchester City","yellow_card","MCIAVL","35",1
+"12","Everton","yellow_card","BOUEVE","22",1
+"12","Everton","yellow_card","EVENEW","66",2
+"15","Burnley","yellow_card","BURCHE","32",1
+"15","Burnley","yellow_card","BURBHA","25",1
+"16","Brighton and Hove Albion","yellow_card","BHAMUN","30",1
+"20","Arsenal","yellow_card","ARSLUT","78",2

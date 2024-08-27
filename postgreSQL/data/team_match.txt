@@ -1,0 +1,761 @@
+"club_name","match_id","home_away","goal_scored"
+"Arsenal","ARSAVL","home",NULL
+"Arsenal","ARSBHA","home",NULL
+"Arsenal","ARSBOU","home",1
+"Arsenal","ARSBRE","home",3
+"Arsenal","ARSBUR","home",NULL
+"Arsenal","ARSCHE","home",NULL
+"Arsenal","ARSCRY","home",1
+"Arsenal","ARSEVE","home",13
+"Arsenal","ARSFUL","home",NULL
+"Arsenal","ARSLIV","home",NULL
+"Arsenal","ARSLUT","home",6
+"Arsenal","ARSMCI","home",0
+"Arsenal","ARSMUN","home",NULL
+"Arsenal","ARSNEW","home",NULL
+"Arsenal","ARSNOT","home",0
+"Arsenal","ARSSHE","home",4
+"Arsenal","ARSTOT","home",NULL
+"Arsenal","ARSWHU","home",NULL
+"Arsenal","ARSWOL","home",NULL
+"Arsenal","AVLARS","away",2
+"Arsenal","BHAARS","away",1
+"Arsenal","BOUARS","away",NULL
+"Arsenal","BREARS","away",NULL
+"Arsenal","BURARS","away",3
+"Arsenal","CHEARS","away",0
+"Arsenal","CRYARS","away",NULL
+"Arsenal","EVEARS","away",NULL
+"Arsenal","FULARS","away",4
+"Arsenal","LIVARS","away",1
+"Arsenal","LUTARS","away",NULL
+"Arsenal","MCIARS","away",NULL
+"Arsenal","MUNARS","away",2
+"Arsenal","NEWARS","away",4
+"Arsenal","NOTARS","away",NULL
+"Arsenal","SHEARS","away",NULL
+"Arsenal","TOTARS","away",6
+"Arsenal","WHUARS","away",0
+"Arsenal","WOLARS","away",1
+"Aston Villa","ARSAVL","away",NULL
+"Aston Villa","AVLARS","home",3
+"Aston Villa","AVLBHA","home",6
+"Aston Villa","AVLBOU","home",0
+"Aston Villa","AVLBRE","home",NULL
+"Aston Villa","AVLBUR","home",NULL
+"Aston Villa","AVLCHE","home",0
+"Aston Villa","AVLCRY","home",4
+"Aston Villa","AVLEVE","home",NULL
+"Aston Villa","AVLFUL","home",NULL
+"Aston Villa","AVLLIV","home",0
+"Aston Villa","AVLLUT","home",3
+"Aston Villa","AVLMCI","home",NULL
+"Aston Villa","AVLMUN","home",NULL
+"Aston Villa","AVLNEW","home",3
+"Aston Villa","AVLNOT","home",0
+"Aston Villa","AVLSHE","home",NULL
+"Aston Villa","AVLTOT","home",NULL
+"Aston Villa","AVLWHU","home",NULL
+"Aston Villa","AVLWOL","home",4
+"Aston Villa","BHAAVL","away",NULL
+"Aston Villa","BOUAVL","away",NULL
+"Aston Villa","BREAVL","away",5
+"Aston Villa","BURAVL","away",2
+"Aston Villa","CHEAVL","away",NULL
+"Aston Villa","CRYAVL","away",NULL
+"Aston Villa","EVEAVL","away",3
+"Aston Villa","FULAVL","away",2
+"Aston Villa","LIVAVL","away",NULL
+"Aston Villa","LUTAVL","away",NULL
+"Aston Villa","MCIAVL","away",0
+"Aston Villa","MUNAVL","away",4
+"Aston Villa","NEWAVL","away",NULL
+"Aston Villa","NOTAVL","away",NULL
+"Aston Villa","SHEAVL","away",3
+"Aston Villa","TOTAVL","away",1
+"Aston Villa","WHUAVL","away",1
+"Aston Villa","WOLAVL","away",NULL
+"Bournemouth","ARSBOU","away",9
+"Bournemouth","AVLBOU","away",3
+"Bournemouth","BHABOU","away",NULL
+"Bournemouth","BOUARS","home",NULL
+"Bournemouth","BOUAVL","home",NULL
+"Bournemouth","BOUBHA","home",3
+"Bournemouth","BOUBRE","home",2
+"Bournemouth","BOUBUR","home",6
+"Bournemouth","BOUCHE","home",NULL
+"Bournemouth","BOUCRY","home",NULL
+"Bournemouth","BOUEVE","home",3
+"Bournemouth","BOUFUL","home",0
+"Bournemouth","BOULIV","home",NULL
+"Bournemouth","BOULUT","home",NULL
+"Bournemouth","BOUMCI","home",2
+"Bournemouth","BOUMUN","home",4
+"Bournemouth","BOUNEW","home",NULL
+"Bournemouth","BOUNOT","home",NULL
+"Bournemouth","BOUSHE","home",NULL
+"Bournemouth","BOUTOT","home",0
+"Bournemouth","BOUWHU","home",0
+"Bournemouth","BOUWOL","home",1
+"Bournemouth","BREBOU","away",NULL
+"Bournemouth","BURBOU","away",NULL
+"Bournemouth","CHEBOU","away",2
+"Bournemouth","CRYBOU","away",3
+"Bournemouth","EVEBOU","away",NULL
+"Bournemouth","FULBOU","away",NULL
+"Bournemouth","LIVBOU","away",5
+"Bournemouth","LUTBOU","away",2
+"Bournemouth","MCIBOU","away",NULL
+"Bournemouth","MUNBOU","away",NULL
+"Bournemouth","NEWBOU","away",1
+"Bournemouth","NOTBOU","away",0
+"Bournemouth","SHEBOU","away",1
+"Bournemouth","TOTBOU","away",NULL
+"Bournemouth","WHUBOU","away",NULL
+"Bournemouth","WOLBOU","away",NULL
+"Brentford","ARSBRE","away",8
+"Brentford","AVLBRE","away",NULL
+"Brentford","BHABRE","away",NULL
+"Brentford","BOUBRE","away",0
+"Brentford","BREARS","home",NULL
+"Brentford","BREAVL","home",3
+"Brentford","BREBHA","home",7
+"Brentford","BREBOU","home",NULL
+"Brentford","BREBUR","home",NULL
+"Brentford","BRECHE","home",NULL
+"Brentford","BRECRY","home",5
+"Brentford","BREEVE","home",0
+"Brentford","BREFUL","home",NULL
+"Brentford","BRELIV","home",NULL
+"Brentford","BRELUT","home",1
+"Brentford","BREMCI","home",0
+"Brentford","BREMUN","home",NULL
+"Brentford","BRENEW","home",NULL
+"Brentford","BRENOT","home",NULL
+"Brentford","BRESHE","home",5
+"Brentford","BRETOT","home",5
+"Brentford","BREWHU","home",NULL
+"Brentford","BREWOL","home",NULL
+"Brentford","BURBRE","away",0
+"Brentford","CHEBRE","away",2
+"Brentford","CRYBRE","away",NULL
+"Brentford","EVEBRE","away",NULL
+"Brentford","FULBRE","away",2
+"Brentford","LIVBRE","away",1
+"Brentford","LUTBRE","away",NULL
+"Brentford","MCIBRE","away",NULL
+"Brentford","MUNBRE","away",1
+"Brentford","NEWBRE","away",4
+"Brentford","NOTBRE","away",2
+"Brentford","SHEBRE","away",NULL
+"Brentford","TOTBRE","away",NULL
+"Brentford","WHUBRE","away",2
+"Brentford","WOLBRE","away",2
+"Brighton and Hove Albion","ARSBHA","away",NULL
+"Brighton and Hove Albion","AVLBHA","away",1
+"Brighton and Hove Albion","BHAARS","home",2
+"Brighton and Hove Albion","BHAAVL","home",NULL
+"Brighton and Hove Albion","BHABOU","home",NULL
+"Brighton and Hove Albion","BHABRE","home",NULL
+"Brighton and Hove Albion","BHABUR","home",0
+"Brighton and Hove Albion","BHACHE","home",2
+"Brighton and Hove Albion","BHACRY","home",NULL
+"Brighton and Hove Albion","BHAEVE","home",NULL
+"Brighton and Hove Albion","BHAFUL","home",2
+"Brighton and Hove Albion","BHALIV","home",4
+"Brighton and Hove Albion","BHALUT","home",NULL
+"Brighton and Hove Albion","BHAMCI","home",NULL
+"Brighton and Hove Albion","BHAMUN","home",1
+"Brighton and Hove Albion","BHANEW","home",2
+"Brighton and Hove Albion","BHANOT","home",NULL
+"Brighton and Hove Albion","BHASHE","home",NULL
+"Brighton and Hove Albion","BHATOT","home",NULL
+"Brighton and Hove Albion","BHAWHU","home",1
+"Brighton and Hove Albion","BHAWOL","home",NULL
+"Brighton and Hove Albion","BOUBHA","away",0
+"Brighton and Hove Albion","BREBHA","away",0
+"Brighton and Hove Albion","BURBHA","away",NULL
+"Brighton and Hove Albion","CHEBHA","away",NULL
+"Brighton and Hove Albion","CRYBHA","away",5
+"Brighton and Hove Albion","EVEBHA","away",4
+"Brighton and Hove Albion","FULBHA","away",NULL
+"Brighton and Hove Albion","LIVBHA","away",NULL
+"Brighton and Hove Albion","LUTBHA","away",0
+"Brighton and Hove Albion","MCIBHA","away",1
+"Brighton and Hove Albion","MUNBHA","away",NULL
+"Brighton and Hove Albion","NEWBHA","away",NULL
+"Brighton and Hove Albion","NOTBHA","away",17
+"Brighton and Hove Albion","SHEBHA","away",3
+"Brighton and Hove Albion","TOTBHA","away",1
+"Brighton and Hove Albion","WHUBHA","away",NULL
+"Brighton and Hove Albion","WOLBHA","away",6
+"Burnley","ARSBUR","away",NULL
+"Burnley","AVLBUR","away",NULL
+"Burnley","BHABUR","away",5
+"Burnley","BOUBUR","away",1
+"Burnley","BREBUR","away",NULL
+"Burnley","BURARS","home",3
+"Burnley","BURAVL","home",5
+"Burnley","BURBHA","home",NULL
+"Burnley","BURBOU","home",NULL
+"Burnley","BURBRE","home",3
+"Burnley","BURCHE","home",0
+"Burnley","BURCRY","home",1
+"Burnley","BUREVE","home",NULL
+"Burnley","BURFUL","home",NULL
+"Burnley","BURLIV","home",3
+"Burnley","BURLUT","home",8
+"Burnley","BURMCI","home",NULL
+"Burnley","BURMUN","home",NULL
+"Burnley","BURNEW","home",NULL
+"Burnley","BURNOT","home",2
+"Burnley","BURSHE","home",8
+"Burnley","BURTOT","home",NULL
+"Burnley","BURWHU","home",NULL
+"Burnley","BURWOL","home",4
+"Burnley","CHEBUR","away",NULL
+"Burnley","CRYBUR","away",NULL
+"Burnley","EVEBUR","away",1
+"Burnley","FULBUR","away",0
+"Burnley","LIVBUR","away",NULL
+"Burnley","LUTBUR","away",NULL
+"Burnley","MCIBUR","away",2
+"Burnley","MUNBUR","away",1
+"Burnley","NEWBUR","away",2
+"Burnley","NOTBUR","away",NULL
+"Burnley","SHEBUR","away",NULL
+"Burnley","TOTBUR","away",1
+"Burnley","WHUBUR","away",7
+"Burnley","WOLBUR","away",NULL
+"Chelsea","ARSCHE","away",NULL
+"Chelsea","AVLCHE","away",5
+"Chelsea","BHACHE","away",2
+"Chelsea","BOUCHE","away",NULL
+"Chelsea","BRECHE","away",NULL
+"Chelsea","BURCHE","away",4
+"Chelsea","CHEARS","home",2
+"Chelsea","CHEAVL","home",NULL
+"Chelsea","CHEBHA","home",NULL
+"Chelsea","CHEBOU","home",0
+"Chelsea","CHEBRE","home",0
+"Chelsea","CHEBUR","home",NULL
+"Chelsea","CHECRY","home",NULL
+"Chelsea","CHEEVE","home",NULL
+"Chelsea","CHEFUL","home",8
+"Chelsea","CHELIV","home",1
+"Chelsea","CHELUT","home",NULL
+"Chelsea","CHEMCI","home",NULL
+"Chelsea","CHEMUN","home",NULL
+"Chelsea","CHENEW","home",6
+"Chelsea","CHENOT","home",1
+"Chelsea","CHESHE","home",NULL
+"Chelsea","CHETOT","home",NULL
+"Chelsea","CHEWHU","home",3
+"Chelsea","CHEWOL","home",NULL
+"Chelsea","CRYCHE","away",6
+"Chelsea","EVECHE","away",4
+"Chelsea","FULCHE","away",NULL
+"Chelsea","LIVCHE","away",NULL
+"Chelsea","LUTCHE","away",3
+"Chelsea","MCICHE","away",3
+"Chelsea","MUNCHE","away",0
+"Chelsea","NEWCHE","away",NULL
+"Chelsea","NOTCHE","away",NULL
+"Chelsea","SHECHE","away",0
+"Chelsea","TOTCHE","away",3
+"Chelsea","WHUCHE","away",NULL
+"Chelsea","WOLCHE","away",6
+"Crystal Palace","ARSCRY","away",3
+"Crystal Palace","AVLCRY","away",4
+"Crystal Palace","BHACRY","away",NULL
+"Crystal Palace","BOUCRY","away",NULL
+"Crystal Palace","BRECRY","away",0
+"Crystal Palace","BURCRY","away",4
+"Crystal Palace","CHECRY","away",NULL
+"Crystal Palace","CRYARS","home",NULL
+"Crystal Palace","CRYAVL","home",NULL
+"Crystal Palace","CRYBHA","home",2
+"Crystal Palace","CRYBOU","home",6
+"Crystal Palace","CRYBRE","home",NULL
+"Crystal Palace","CRYBUR","home",NULL
+"Crystal Palace","CRYCHE","home",4
+"Crystal Palace","CRYEVE","home",4
+"Crystal Palace","CRYFUL","home",3
+"Crystal Palace","CRYLIV","home",NULL
+"Crystal Palace","CRYLUT","home",NULL
+"Crystal Palace","CRYMCI","home",NULL
+"Crystal Palace","CRYMUN","home",0
+"Crystal Palace","CRYNEW","home",1
+"Crystal Palace","CRYNOT","home",NULL
+"Crystal Palace","CRYSHE","home",NULL
+"Crystal Palace","CRYTOT","home",7
+"Crystal Palace","CRYWHU","home",0
+"Crystal Palace","CRYWOL","home",5
+"Crystal Palace","EVECRY","away",NULL
+"Crystal Palace","FULCRY","away",NULL
+"Crystal Palace","LIVCRY","away",1
+"Crystal Palace","LUTCRY","away",0
+"Crystal Palace","MCICRY","away",4
+"Crystal Palace","MUNCRY","away",NULL
+"Crystal Palace","NEWCRY","away",NULL
+"Crystal Palace","NOTCRY","away",0
+"Crystal Palace","SHECRY","away",0
+"Crystal Palace","TOTCRY","away",NULL
+"Crystal Palace","WHUCRY","away",NULL
+"Crystal Palace","WOLCRY","away",NULL
+"Everton","ARSEVE","away",0
+"Everton","AVLEVE","away",NULL
+"Everton","BHAEVE","away",NULL
+"Everton","BOUEVE","away",1
+"Everton","BREEVE","away",1
+"Everton","BUREVE","away",NULL
+"Everton","CHEEVE","away",NULL
+"Everton","CRYEVE","away",5
+"Everton","EVEARS","home",NULL
+"Everton","EVEAVL","home",3
+"Everton","EVEBHA","home",3
+"Everton","EVEBOU","home",NULL
+"Everton","EVEBRE","home",NULL
+"Everton","EVEBUR","home",1
+"Everton","EVECHE","home",5
+"Everton","EVECRY","home",NULL
+"Everton","EVEFUL","home",NULL
+"Everton","EVELIV","home",NULL
+"Everton","EVELUT","home",NULL
+"Everton","EVEMCI","home",3
+"Everton","EVEMUN","home",2
+"Everton","EVENEW","home",NULL
+"Everton","EVENOT","home",NULL
+"Everton","EVESHE","home",1
+"Everton","EVETOT","home",3
+"Everton","EVEWHU","home",NULL
+"Everton","EVEWOL","home",NULL
+"Everton","FULEVE","away",8
+"Everton","LIVEVE","away",0
+"Everton","LUTEVE","away",5
+"Everton","MCIEVE","away",NULL
+"Everton","MUNEVE","away",NULL
+"Everton","NEWEVE","away",0
+"Everton","NOTEVE","away",4
+"Everton","SHEEVE","away",NULL
+"Everton","TOTEVE","away",NULL
+"Everton","WHUEVE","away",1
+"Everton","WOLEVE","away",3
+"Fulham","ARSFUL","away",NULL
+"Fulham","AVLFUL","away",NULL
+"Fulham","BHAFUL","away",0
+"Fulham","BOUFUL","away",2
+"Fulham","BREFUL","away",NULL
+"Fulham","BURFUL","away",NULL
+"Fulham","CHEFUL","away",3
+"Fulham","CRYFUL","away",6
+"Fulham","EVEFUL","away",NULL
+"Fulham","FULARS","home",1
+"Fulham","FULAVL","home",0
+"Fulham","FULBHA","home",NULL
+"Fulham","FULBOU","home",NULL
+"Fulham","FULBRE","home",0
+"Fulham","FULBUR","home",1
+"Fulham","FULCHE","home",NULL
+"Fulham","FULCRY","home",NULL
+"Fulham","FULEVE","home",2
+"Fulham","FULLIV","home",NULL
+"Fulham","FULLUT","home",11
+"Fulham","FULMCI","home",1
+"Fulham","FULMUN","home",NULL
+"Fulham","FULNEW","home",NULL
+"Fulham","FULNOT","home",0
+"Fulham","FULSHE","home",7
+"Fulham","FULTOT","home",NULL
+"Fulham","FULWHU","home",NULL
+"Fulham","FULWOL","home",1
+"Fulham","LIVFUL","away",4
+"Fulham","LUTFUL","away",NULL
+"Fulham","MCIFUL","away",NULL
+"Fulham","MUNFUL","away",4
+"Fulham","NEWFUL","away",7
+"Fulham","NOTFUL","away",NULL
+"Fulham","SHEFUL","away",NULL
+"Fulham","TOTFUL","away",3
+"Fulham","WHUFUL","away",1
+"Fulham","WOLFUL","away",NULL
+"Liverpool","ARSLIV","away",NULL
+"Liverpool","AVLLIV","away",2
+"Liverpool","BHALIV","away",1
+"Liverpool","BOULIV","away",NULL
+"Liverpool","BRELIV","away",NULL
+"Liverpool","BURLIV","away",3
+"Liverpool","CHELIV","away",2
+"Liverpool","CRYLIV","away",NULL
+"Liverpool","EVELIV","away",NULL
+"Liverpool","FULLIV","away",NULL
+"Liverpool","LIVARS","home",0
+"Liverpool","LIVAVL","home",NULL
+"Liverpool","LIVBHA","home",NULL
+"Liverpool","LIVBOU","home",5
+"Liverpool","LIVBRE","home",4
+"Liverpool","LIVBUR","home",NULL
+"Liverpool","LIVCHE","home",NULL
+"Liverpool","LIVCRY","home",2
+"Liverpool","LIVEVE","home",4
+"Liverpool","LIVFUL","home",2
+"Liverpool","LIVLUT","home",0
+"Liverpool","LIVMCI","home",NULL
+"Liverpool","LIVMUN","home",NULL
+"Liverpool","LIVNEW","home",2
+"Liverpool","LIVNOT","home",3
+"Liverpool","LIVSHE","home",NULL
+"Liverpool","LIVTOT","home",NULL
+"Liverpool","LIVWHU","home",2
+"Liverpool","LIVWOL","home",NULL
+"Liverpool","LUTLIV","away",NULL
+"Liverpool","MCILIV","away",4
+"Liverpool","MUNLIV","away",1
+"Liverpool","NEWLIV","away",NULL
+"Liverpool","NOTLIV","away",NULL
+"Liverpool","SHELIV","away",0
+"Liverpool","TOTLIV","away",3
+"Liverpool","WHULIV","away",NULL
+"Liverpool","WOLLIV","away",2
+"Luton Town","ARSLUT","away",3
+"Luton Town","AVLLUT","away",1
+"Luton Town","BHALUT","away",NULL
+"Luton Town","BOULUT","away",NULL
+"Luton Town","BRELUT","away",3
+"Luton Town","BURLUT","away",1
+"Luton Town","CHELUT","away",NULL
+"Luton Town","CRYLUT","away",NULL
+"Luton Town","EVELUT","away",NULL
+"Luton Town","FULLUT","away",3
+"Luton Town","LIVLUT","away",2
+"Luton Town","LUTARS","home",NULL
+"Luton Town","LUTAVL","home",NULL
+"Luton Town","LUTBHA","home",5
+"Luton Town","LUTBOU","home",0
+"Luton Town","LUTBRE","home",NULL
+"Luton Town","LUTBUR","home",NULL
+"Luton Town","LUTCHE","home",4
+"Luton Town","LUTCRY","home",1
+"Luton Town","LUTEVE","home",0
+"Luton Town","LUTFUL","home",NULL
+"Luton Town","LUTLIV","home",NULL
+"Luton Town","LUTMCI","home",NULL
+"Luton Town","LUTMUN","home",2
+"Luton Town","LUTNEW","home",5
+"Luton Town","LUTNOT","home",NULL
+"Luton Town","LUTSHE","home",NULL
+"Luton Town","LUTTOT","home",2
+"Luton Town","LUTWHU","home",1
+"Luton Town","LUTWOL","home",2
+"Luton Town","MCILUT","away",2
+"Luton Town","MUNLUT","away",NULL
+"Luton Town","NEWLUT","away",NULL
+"Luton Town","NOTLUT","away",2
+"Luton Town","SHELUT","away",4
+"Luton Town","TOTLUT","away",NULL
+"Luton Town","WHULUT","away",NULL
+"Luton Town","WOLLUT","away",NULL
+"Manchester City","ARSMCI","away",0
+"Manchester City","AVLMCI","away",NULL
+"Manchester City","BHAMCI","away",NULL
+"Manchester City","BOUMCI","away",6
+"Manchester City","BREMCI","away",3
+"Manchester City","BURMCI","away",NULL
+"Manchester City","CHEMCI","away",NULL
+"Manchester City","CRYMCI","away",NULL
+"Manchester City","EVEMCI","away",1
+"Manchester City","FULMCI","away",6
+"Manchester City","LIVMCI","away",NULL
+"Manchester City","LUTMCI","away",NULL
+"Manchester City","MCIARS","home",NULL
+"Manchester City","MCIAVL","home",5
+"Manchester City","MCIBHA","home",6
+"Manchester City","MCIBOU","home",NULL
+"Manchester City","MCIBRE","home",NULL
+"Manchester City","MCIBUR","home",5
+"Manchester City","MCICHE","home",4
+"Manchester City","MCICRY","home",5
+"Manchester City","MCIEVE","home",NULL
+"Manchester City","MCIFUL","home",NULL
+"Manchester City","MCILIV","home",1
+"Manchester City","MCILUT","home",7
+"Manchester City","MCIMUN","home",0
+"Manchester City","MCINEW","home",NULL
+"Manchester City","MCINOT","home",NULL
+"Manchester City","MCISHE","home",1
+"Manchester City","MCITOT","home",5
+"Manchester City","MCIWHU","home",NULL
+"Manchester City","MCIWOL","home",NULL
+"Manchester City","MUNMCI","away",NULL
+"Manchester City","NEWMCI","away",5
+"Manchester City","NOTMCI","away",2
+"Manchester City","SHEMCI","away",NULL
+"Manchester City","TOTMCI","away",NULL
+"Manchester City","WHUMCI","away",3
+"Manchester City","WOLMCI","away",0
+"Manchester United","ARSMUN","away",NULL
+"Manchester United","AVLMUN","away",NULL
+"Manchester United","BHAMUN","away",5
+"Manchester United","BOUMUN","away",1
+"Manchester United","BREMUN","away",NULL
+"Manchester United","BURMUN","away",NULL
+"Manchester United","CHEMUN","away",NULL
+"Manchester United","CRYMUN","away",3
+"Manchester United","EVEMUN","away",3
+"Manchester United","FULMUN","away",NULL
+"Manchester United","LIVMUN","away",NULL
+"Manchester United","LUTMUN","away",1
+"Manchester United","MCIMUN","away",0
+"Manchester United","MUNARS","home",4
+"Manchester United","MUNAVL","home",6
+"Manchester United","MUNBHA","home",NULL
+"Manchester United","MUNBOU","home",NULL
+"Manchester United","MUNBRE","home",2
+"Manchester United","MUNBUR","home",0
+"Manchester United","MUNCHE","home",2
+"Manchester United","MUNCRY","home",NULL
+"Manchester United","MUNEVE","home",NULL
+"Manchester United","MUNFUL","home",2
+"Manchester United","MUNLIV","home",1
+"Manchester United","MUNLUT","home",NULL
+"Manchester United","MUNMCI","home",NULL
+"Manchester United","MUNNEW","home",NULL
+"Manchester United","MUNNOT","home",1
+"Manchester United","MUNSHE","home",0
+"Manchester United","MUNTOT","home",NULL
+"Manchester United","MUNWHU","home",NULL
+"Manchester United","MUNWOL","home",3
+"Manchester United","NEWMUN","away",3
+"Manchester United","NOTMUN","away",NULL
+"Manchester United","SHEMUN","away",NULL
+"Manchester United","TOTMUN","away",3
+"Manchester United","WHUMUN","away",1
+"Manchester United","WOLMUN","away",NULL
+"Newcastle United","ARSNEW","away",NULL
+"Newcastle United","AVLNEW","away",3
+"Newcastle United","BHANEW","away",0
+"Newcastle United","BOUNEW","away",NULL
+"Newcastle United","BRENEW","away",NULL
+"Newcastle United","BURNEW","away",NULL
+"Newcastle United","CHENEW","away",2
+"Newcastle United","CRYNEW","away",0
+"Newcastle United","EVENEW","away",NULL
+"Newcastle United","FULNEW","away",NULL
+"Newcastle United","LIVNEW","away",4
+"Newcastle United","LUTNEW","away",1
+"Newcastle United","MCINEW","away",NULL
+"Newcastle United","MUNNEW","away",NULL
+"Newcastle United","NEWARS","home",1
+"Newcastle United","NEWAVL","home",NULL
+"Newcastle United","NEWBHA","home",NULL
+"Newcastle United","NEWBOU","home",0
+"Newcastle United","NEWBRE","home",7
+"Newcastle United","NEWBUR","home",9
+"Newcastle United","NEWCHE","home",NULL
+"Newcastle United","NEWCRY","home",NULL
+"Newcastle United","NEWEVE","home",2
+"Newcastle United","NEWFUL","home",0
+"Newcastle United","NEWLIV","home",NULL
+"Newcastle United","NEWLUT","home",NULL
+"Newcastle United","NEWMCI","home",1
+"Newcastle United","NEWMUN","home",3
+"Newcastle United","NEWNOT","home",0
+"Newcastle United","NEWSHE","home",NULL
+"Newcastle United","NEWTOT","home",NULL
+"Newcastle United","NEWWHU","home",0
+"Newcastle United","NEWWOL","home",NULL
+"Newcastle United","NOTNEW","away",NULL
+"Newcastle United","SHENEW","away",4
+"Newcastle United","TOTNEW","away",2
+"Newcastle United","WHUNEW","away",NULL
+"Newcastle United","WOLNEW","away",5
+"Nottingham Forest","ARSNOT","away",2
+"Nottingham Forest","AVLNOT","away",0
+"Nottingham Forest","BHANOT","away",NULL
+"Nottingham Forest","BOUNOT","away",NULL
+"Nottingham Forest","BRENOT","away",NULL
+"Nottingham Forest","BURNOT","away",1
+"Nottingham Forest","CHENOT","away",1
+"Nottingham Forest","CRYNOT","away",NULL
+"Nottingham Forest","EVENOT","away",NULL
+"Nottingham Forest","FULNOT","away",1
+"Nottingham Forest","LIVNOT","away",1
+"Nottingham Forest","LUTNOT","away",NULL
+"Nottingham Forest","MCINOT","away",NULL
+"Nottingham Forest","MUNNOT","away",3
+"Nottingham Forest","NEWNOT","away",2
+"Nottingham Forest","NOTARS","home",NULL
+"Nottingham Forest","NOTAVL","home",NULL
+"Nottingham Forest","NOTBHA","home",2
+"Nottingham Forest","NOTBOU","home",0
+"Nottingham Forest","NOTBRE","home",0
+"Nottingham Forest","NOTBUR","home",NULL
+"Nottingham Forest","NOTCHE","home",NULL
+"Nottingham Forest","NOTCRY","home",7
+"Nottingham Forest","NOTEVE","home",6
+"Nottingham Forest","NOTFUL","home",NULL
+"Nottingham Forest","NOTLIV","home",NULL
+"Nottingham Forest","NOTLUT","home",6
+"Nottingham Forest","NOTMCI","home",0
+"Nottingham Forest","NOTMUN","home",NULL
+"Nottingham Forest","NOTNEW","home",NULL
+"Nottingham Forest","NOTSHE","home",NULL
+"Nottingham Forest","NOTTOT","home",0
+"Nottingham Forest","NOTWHU","home",6
+"Nottingham Forest","NOTWOL","home",0
+"Nottingham Forest","SHENOT","away",1
+"Nottingham Forest","TOTNOT","away",NULL
+"Nottingham Forest","WHUNOT","away",NULL
+"Nottingham Forest","WOLNOT","away",NULL
+"Sheffield United","ARSSHE","away",1
+"Sheffield United","AVLSHE","away",NULL
+"Sheffield United","BHASHE","away",NULL
+"Sheffield United","BOUSHE","away",NULL
+"Sheffield United","BRESHE","away",1
+"Sheffield United","BURSHE","away",3
+"Sheffield United","CHESHE","away",NULL
+"Sheffield United","CRYSHE","away",NULL
+"Sheffield United","EVESHE","away",2
+"Sheffield United","FULSHE","away",2
+"Sheffield United","LIVSHE","away",NULL
+"Sheffield United","LUTSHE","away",NULL
+"Sheffield United","MCISHE","away",1
+"Sheffield United","MUNSHE","away",1
+"Sheffield United","NEWSHE","away",NULL
+"Sheffield United","NOTSHE","away",NULL
+"Sheffield United","SHEARS","home",NULL
+"Sheffield United","SHEAVL","home",0
+"Sheffield United","SHEBHA","home",0
+"Sheffield United","SHEBOU","home",0
+"Sheffield United","SHEBRE","home",NULL
+"Sheffield United","SHEBUR","home",NULL
+"Sheffield United","SHECHE","home",0
+"Sheffield United","SHECRY","home",4
+"Sheffield United","SHEEVE","home",NULL
+"Sheffield United","SHEFUL","home",NULL
+"Sheffield United","SHELIV","home",7
+"Sheffield United","SHELUT","home",0
+"Sheffield United","SHEMCI","home",NULL
+"Sheffield United","SHEMUN","home",NULL
+"Sheffield United","SHENEW","home",3
+"Sheffield United","SHENOT","home",2
+"Sheffield United","SHETOT","home",0
+"Sheffield United","SHEWHU","home",NULL
+"Sheffield United","SHEWOL","home",NULL
+"Sheffield United","TOTSHE","away",NULL
+"Sheffield United","WHUSHE","away",3
+"Sheffield United","WOLSHE","away",6
+"Tottenham Hotspur","ARSTOT","away",NULL
+"Tottenham Hotspur","AVLTOT","away",NULL
+"Tottenham Hotspur","BHATOT","away",NULL
+"Tottenham Hotspur","BOUTOT","away",1
+"Tottenham Hotspur","BRETOT","away",0
+"Tottenham Hotspur","BURTOT","away",NULL
+"Tottenham Hotspur","CHETOT","away",NULL
+"Tottenham Hotspur","CRYTOT","away",5
+"Tottenham Hotspur","EVETOT","away",4
+"Tottenham Hotspur","FULTOT","away",NULL
+"Tottenham Hotspur","LIVTOT","away",NULL
+"Tottenham Hotspur","LUTTOT","away",1
+"Tottenham Hotspur","MCITOT","away",4
+"Tottenham Hotspur","MUNTOT","away",NULL
+"Tottenham Hotspur","NEWTOT","away",NULL
+"Tottenham Hotspur","NOTTOT","away",0
+"Tottenham Hotspur","SHETOT","away",0
+"Tottenham Hotspur","TOTARS","home",1
+"Tottenham Hotspur","TOTAVL","home",3
+"Tottenham Hotspur","TOTBHA","home",1
+"Tottenham Hotspur","TOTBOU","home",NULL
+"Tottenham Hotspur","TOTBRE","home",NULL
+"Tottenham Hotspur","TOTBUR","home",4
+"Tottenham Hotspur","TOTCHE","home",4
+"Tottenham Hotspur","TOTCRY","home",NULL
+"Tottenham Hotspur","TOTEVE","home",NULL
+"Tottenham Hotspur","TOTFUL","home",2
+"Tottenham Hotspur","TOTLIV","home",1
+"Tottenham Hotspur","TOTLUT","home",NULL
+"Tottenham Hotspur","TOTMCI","home",NULL
+"Tottenham Hotspur","TOTMUN","home",0
+"Tottenham Hotspur","TOTNEW","home",0
+"Tottenham Hotspur","TOTNOT","home",NULL
+"Tottenham Hotspur","TOTSHE","home",NULL
+"Tottenham Hotspur","TOTWHU","home",NULL
+"Tottenham Hotspur","TOTWOL","home",4
+"Tottenham Hotspur","WHUTOT","away",6
+"Tottenham Hotspur","WOLTOT","away",NULL
+"West Ham United","ARSWHU","away",NULL
+"West Ham United","AVLWHU","away",NULL
+"West Ham United","BHAWHU","away",2
+"West Ham United","BOUWHU","away",2
+"West Ham United","BREWHU","away",NULL
+"West Ham United","BURWHU","away",NULL
+"West Ham United","CHEWHU","away",0
+"West Ham United","CRYWHU","away",0
+"West Ham United","EVEWHU","away",NULL
+"West Ham United","FULWHU","away",NULL
+"West Ham United","LIVWHU","away",1
+"West Ham United","LUTWHU","away",2
+"West Ham United","MCIWHU","away",NULL
+"West Ham United","MUNWHU","away",NULL
+"West Ham United","NEWWHU","away",4
+"West Ham United","NOTWHU","away",6
+"West Ham United","SHEWHU","away",NULL
+"West Ham United","TOTWHU","away",NULL
+"West Ham United","WHUARS","home",4
+"West Ham United","WHUAVL","home",4
+"West Ham United","WHUBHA","home",NULL
+"West Ham United","WHUBOU","home",NULL
+"West Ham United","WHUBRE","home",7
+"West Ham United","WHUBUR","home",7
+"West Ham United","WHUCHE","home",NULL
+"West Ham United","WHUCRY","home",NULL
+"West Ham United","WHUEVE","home",1
+"West Ham United","WHUFUL","home",4
+"West Ham United","WHULIV","home",NULL
+"West Ham United","WHULUT","home",NULL
+"West Ham United","WHUMCI","home",2
+"West Ham United","WHUMUN","home",2
+"West Ham United","WHUNEW","home",NULL
+"West Ham United","WHUNOT","home",NULL
+"West Ham United","WHUSHE","home",3
+"West Ham United","WHUTOT","home",0
+"West Ham United","WHUWOL","home",NULL
+"West Ham United","WOLWHU","away",2
+"Wolverhampton Wanderers","ARSWOL","away",NULL
+"Wolverhampton Wanderers","AVLWOL","away",4
+"Wolverhampton Wanderers","BHAWOL","away",NULL
+"Wolverhampton Wanderers","BOUWOL","away",2
+"Wolverhampton Wanderers","BREWOL","away",NULL
+"Wolverhampton Wanderers","BURWOL","away",5
+"Wolverhampton Wanderers","CHEWOL","away",NULL
+"Wolverhampton Wanderers","CRYWOL","away",1
+"Wolverhampton Wanderers","EVEWOL","away",NULL
+"Wolverhampton Wanderers","FULWOL","away",2
+"Wolverhampton Wanderers","LIVWOL","away",NULL
+"Wolverhampton Wanderers","LUTWOL","away",3
+"Wolverhampton Wanderers","MCIWOL","away",NULL
+"Wolverhampton Wanderers","MUNWOL","away",2
+"Wolverhampton Wanderers","NEWWOL","away",NULL
+"Wolverhampton Wanderers","NOTWOL","away",0
+"Wolverhampton Wanderers","SHEWOL","away",NULL
+"Wolverhampton Wanderers","TOTWOL","away",2
+"Wolverhampton Wanderers","WHUWOL","away",NULL
+"Wolverhampton Wanderers","WOLARS","home",7
+"Wolverhampton Wanderers","WOLAVL","home",NULL
+"Wolverhampton Wanderers","WOLBHA","home",2
+"Wolverhampton Wanderers","WOLBOU","home",NULL
+"Wolverhampton Wanderers","WOLBRE","home",0
+"Wolverhampton Wanderers","WOLBUR","home",NULL
+"Wolverhampton Wanderers","WOLCHE","home",7
+"Wolverhampton Wanderers","WOLCRY","home",NULL
+"Wolverhampton Wanderers","WOLEVE","home",3
+"Wolverhampton Wanderers","WOLFUL","home",NULL
+"Wolverhampton Wanderers","WOLLIV","home",3
+"Wolverhampton Wanderers","WOLLUT","home",NULL
+"Wolverhampton Wanderers","WOLMCI","home",6
+"Wolverhampton Wanderers","WOLMUN","home",NULL
+"Wolverhampton Wanderers","WOLNEW","home",6
+"Wolverhampton Wanderers","WOLNOT","home",NULL
+"Wolverhampton Wanderers","WOLSHE","home",3
+"Wolverhampton Wanderers","WOLTOT","home",NULL
+"Wolverhampton Wanderers","WOLWHU","home",2
