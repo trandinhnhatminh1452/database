@@ -1,0 +1,61 @@
+.filter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    gap: 10px;
+
+}.filter >select{
+    width: 15%;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.filter >label{
+    color: white;
+    font-size: 20px;
+    text-shadow: 0 0 2px black;
+}
+
+.filter >input{
+    width: 8%;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.tableView td:nth-child(1),
+.tableView th:nth-child(1),
+.tableView td:nth-child(2),
+.tableView th:nth-child(2) {
+   display: none; 
+}
+
+.tableView tr {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.tableView th{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.score {
+    font-size: 30px;
+    color: #f9f6ff;
+    text-align: center;
+    background: linear-gradient(150deg, rgb(207 8 207), rgb(0 89 217));
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 14px;
+    margin-top: 14px;
+    padding: 14px 0;
+    border-radius: 40px;
+    font-weight: bold;
+    display: none;
+    text-shadow: 0 0 2px black;
+}

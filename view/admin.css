@@ -1,0 +1,12 @@
+.control-box{
+    position: fixed;
+    top: 20vh;
+}
+
+.control-box.team-manage{
+    left: -15%;
+}
+
+.control-box.fixtures-manage{
+    right: -15%;
+}

@@ -1,0 +1,36 @@
+.club_filter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    gap: 5px;
+
+}.club_filter >select{
+    width: 24%;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.club_filter >label{
+    color: white;
+    font-size: 20px;
+    text-shadow: 0 0 2px black;
+}
+
+.tableView td:nth-child(1),
+.tableView th:nth-child(1) {
+   display: none; 
+}
+
+.tableView tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 1fr 2fr 1fr  ;
+    text-align: center;
+}
+
+.tableView th{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

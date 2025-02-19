@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(150deg, rgb(0, 191, 255), rgb(255, 0, 255));
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.title{
+    position: relative;
+    background-image: url("../image/primary-graphic.svg");
+    background-color: #7520db;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+.title h1{
+    font-size: 6vh;
+    color: white;
+    text-align: center;
+}
+.title > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.title button.model{
+    font-size: 18px;
+    color: white;
+    padding: 12px 14px;
+    background-color: #37003c;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.title button.model:hover{
+    outline: 1px white solid;
+    box-shadow: 0 0 5px white;
+}
+.content{
+    min-height: calc(75% - 40px);
+    background: linear-gradient(150deg,rgb(0, 191, 255),rgb(255, 0, 255));
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.dropContainer {
+    position: relative;
+}
+.dropContent{
+    position: absolute;
+    left:0;
+    top:40px;
+    display: none;
+    background-color: #37003c;
+    padding:10px 0 0;
+    z-index:1;
+    color:white;
+    border-radius: 10px;
+}
+.dropContent > div{
+    display: block;
+    padding:14px 16px;
+    font-size: 20px;
+    background-color: #37003c;
+    width: 120px;
+    cursor: pointer;
+    color:white;
+    z-index: 2;
+    font-weight: normal;
+    border-radius: 10px;
+}
+.dropContent > div:hover{
+    background-color:#c8c2c2;
+    color: black;
+}
+.dropContainer:hover > .dropContent{
+    display:block;
+}
+.avata{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #37003c;
+    outline: 2px white solid;
+    position: absolute;
+    left: 50px;
+    bottom: 20px;
+    background-image: url("../image/gettyimages-1414592440-612x612.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.avata .dropContent{
+    top: 80px;
+}
+.manage_container{
+    position: relative;
+}
+
+.manage_content{
+    position: absolute;
+    display: none;
+    left: 150px;
+    background-color: #722cc5;
+    color: white;
+    top:0;
+    border-radius: 10px;
+}
+
+.manage_content>div{
+    width: 120px;
+    padding: 14px 16px;
+    border-radius: 10px;
+}
+
+.manage_content>div:hover{
+    text-decoration: underline;
+}
+
+.manage_container:hover .manage_content{
+    display: block;
+
+}

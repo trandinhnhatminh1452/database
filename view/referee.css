@@ -1,0 +1,18 @@
+.control-box{
+    height: 280px;
+}
+
+.control-box h1{
+    color: #fff;
+    text-align: center;
+    padding: 20px 10px 20px;
+    font-size: 30px;
+}
+.control-box >div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 20px;
+}
