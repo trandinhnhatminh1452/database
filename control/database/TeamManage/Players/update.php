@@ -13,6 +13,6 @@ include "../../../database.php";
         $_POST["End_Date"],
         $_POST["Shirt_No"]
     ],["player_id"],[$_POST["ID"]]);
-header("location: ../../../index.php?page=forClubs&mod=TeamManage&option=Players");
+    header("location: ../../../index.php?page=forClubs&mod=players");
 
 ?>

@@ -36,7 +36,8 @@
             ELSE m.away_ticket 
         END AS \"Ticket\"
       FROM _flms.matches m
-      JOIN _flms.team_match tm ON m.match_id = tm.match_id;";
+      JOIN _flms.team_match tm ON m.match_id = tm.match_id
+      order by matchweek ASC;";
 ;
 
 
